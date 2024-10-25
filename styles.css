@@ -1,0 +1,12 @@
+
+.box {
+    display: flex;
+    height: 95vh;
+    justify-content: center;
+    align-items: center;
+}
+.main {
+    font-size: 24px;
+    font-weight: bolder;
+    color: blue;
+}
